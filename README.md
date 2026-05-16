@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🌸+Iris+Flower+Classification;Advanced+ML+Pipeline+%7C+v2.0;10+Algorithms+%7C+Real-time+Web+App" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Iris+Flower+Classification;Advanced+ML+Pipeline+%7C+v2.0;10+Algorithms+%7C+Real-time+Web+App" alt="Typing SVG" />
 
-<br/>
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
